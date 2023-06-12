@@ -1,4 +1,4 @@
-"""Entry point for project_name."""
+"""Entry point for den_test_python_project_template_."""
 
 from .cli import main  # pragma: no cover
 
